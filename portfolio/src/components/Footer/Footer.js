@@ -20,8 +20,8 @@ class Footer extends Component {
 
                         <Col lg={3} md={6} sm={12} className="p-5 text-justify">
                             <h2 className="serviceName">Address</h2>
-                            <p className="serviceDescription">#79/6 Padma Residential Aria, 3rd Floor Front Side, Rajshahi</p>
-                            <p className="serviceDescription"><FontAwesomeIcon icon={faEnvelope} /> hr@yahoo.com</p>
+                            <p className="serviceDescription">#20/6 Mirpur Residential Aria, 5rd Floor Front Side, Dhaka</p>
+                            <p className="serviceDescription"><FontAwesomeIcon icon={faEnvelope} /> hr@worldit.com</p>
                             <p className="serviceDescription"><FontAwesomeIcon icon={faPhone}/> 0199220011</p>
 
                         </Col>
@@ -47,7 +47,7 @@ class Footer extends Component {
 
 
                 <Container fluid={true} className="text-center copyrightSection">
-                    <a href="#" className="copyrightLink">World-it.com &copy 2020-2021</a>
+                    <a href="#" className="copyrightLink">world-it.herokuapp.com &copy 2020-2021</a>
 
                 </Container>
 
